@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B152C12C1D0DC10B0037A90D /* StartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B152C12B1D0DC10B0037A90D /* StartViewController.m */; };
+		B1B4CDAD1D1C12CE003F0E94 /* ggg.gif in Resources */ = {isa = PBXBuildFile; fileRef = B1B4CDAC1D1C12CE003F0E94 /* ggg.gif */; };
 		B1B769CA1D0DA405001E8559 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B1B769C91D0DA405001E8559 /* main.m */; };
 		B1B769CD1D0DA405001E8559 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B1B769CC1D0DA405001E8559 /* AppDelegate.m */; };
 		B1B769D01D0DA405001E8559 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B1B769CF1D0DA405001E8559 /* ViewController.m */; };
@@ -31,6 +32,7 @@
 /* Begin PBXFileReference section */
 		B152C12A1D0DC10B0037A90D /* StartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StartViewController.h; sourceTree = "<group>"; };
 		B152C12B1D0DC10B0037A90D /* StartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StartViewController.m; sourceTree = "<group>"; };
+		B1B4CDAC1D1C12CE003F0E94 /* ggg.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ggg.gif; sourceTree = "<group>"; };
 		B1B769C51D0DA405001E8559 /* 登录.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "登录.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1B769C91D0DA405001E8559 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B1B769CB1D0DA405001E8559 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				B152C12B1D0DC10B0037A90D /* StartViewController.m */,
 				B1B76A051D0DAD9E001E8559 /* LoginViewController.h */,
 				B1B76A061D0DAD9E001E8559 /* LoginViewController.m */,
+				B1B4CDAC1D1C12CE003F0E94 /* ggg.gif */,
 				B1B769D11D0DA405001E8559 /* Main.storyboard */,
 				B1B769D41D0DA405001E8559 /* Assets.xcassets */,
 				B1B769D61D0DA405001E8559 /* LaunchScreen.storyboard */,
@@ -219,6 +222,7 @@
 			files = (
 				B1B769FA1D0DA41F001E8559 /* Info.plist in Resources */,
 				B1B769D81D0DA405001E8559 /* LaunchScreen.storyboard in Resources */,
+				B1B4CDAD1D1C12CE003F0E94 /* ggg.gif in Resources */,
 				B1B769D51D0DA405001E8559 /* Assets.xcassets in Resources */,
 				B1B769D31D0DA405001E8559 /* Main.storyboard in Resources */,
 			);
