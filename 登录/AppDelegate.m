@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "StartViewController.h"
 
 @interface AppDelegate ()
 
@@ -16,6 +17,13 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
+    //设置电池条颜色为白色
+    [application setStatusBarStyle:UIStatusBarStyleLightContent];
+    
+    StartViewController *vc = [StartViewController new];
+    self.window.rootViewController = vc;
+    
     // Override point for customization after application launch.
     return YES;
 }
